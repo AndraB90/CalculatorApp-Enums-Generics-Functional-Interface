@@ -1,0 +1,16 @@
+
+]
+java:S2184""BCast one of the operands of this division operation to a "double".(İß˜»úÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÄŸÒ­üÿÿÿÿ
+p
+java:S1450"URemove the "numar1" field and declare it as a local variable in the relevant methods.(¹©Êêüÿÿÿÿ
+p
+java:S1450"URemove the "numar2" field and declare it as a local variable in the relevant methods.(Ì‰ßÓüÿÿÿÿ
+m
+java:S1450"XRemove the "operation" field and declare it as a local variable in the relevant methods.(´ˆ×$
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Ãˆ¦ˆÿÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(”ÊÔó
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÿƒÌüùÿÿÿÿ
+M	java:S106:"9Replace this use of System.out or System.err by a logger.(Ù‰
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(©ÓËÙÿÿÿÿÿ
